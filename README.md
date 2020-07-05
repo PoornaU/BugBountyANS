@@ -14,3 +14,11 @@ Applied Network Security Bug Bounty  Progress
 06) Started doing Capture the Flag (CTF) examples for testing skills. 
 
 07) Registered in HacktheBox.eu website for pentesting practices.
+
+08) Installed the Burp Suite.
+
+09) Installed the Juice Shop. 
+
+10) Attack some websites with using the Burp Suite.
+
+11) For Practice, used some Capture the flag boxes. 
